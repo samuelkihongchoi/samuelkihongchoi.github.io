@@ -406,7 +406,7 @@ fieldset[disabled] .btn-theme {
 
 .service .service-icon {
   display: block;
-  font-size: 30px;
+  font-size: 40px;
   color: #999caa;
   margin-bottom: 30px;
 }
@@ -974,6 +974,7 @@ fieldset[disabled] .btn-theme {
 .full-width {
   width: 100%;
   height: auto;
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.2), 0 12px 40px 0 rgba(0, 0, 0, 0.19);
 }
 
 /*--------------------------------------------------
